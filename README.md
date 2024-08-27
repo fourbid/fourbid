@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Jorge, Student at Milwaukee Area Technical College
+- 👀 I’m interested in buuilding applications and automative bots
+- 🌱 I’m currently learning programming applications
+- 💞️ I’m looking to collaborate on
+- 📫 How to reach me celean@mail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i play sports
